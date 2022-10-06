@@ -11,11 +11,10 @@
       rgba(0, 0, 0, 0.5) 50%,
       rgba(0, 0, 0, 0.5) 50%
     ),
-    url(images/background.jpeg);
+    url(./images/background.jpeg);
   height: 109vh;
   background-position: center;
   background-size: cover;
-  
 }
 
 .navbar {
@@ -134,7 +133,7 @@ ul li a:hover {
     letter-spacing: 2px;
 }
 
-.content .cn{
+.content .cn {
     width: 160px;
     height: 40px;
     background: #ff7200;
@@ -146,7 +145,7 @@ ul li a:hover {
     cursor: pointer;
 }
 
-.content .cn a{
+.content .cn a {
     text-decoration: none;
     color: #000;
     transition: .4s ease;
@@ -156,13 +155,13 @@ ul li a:hover {
     background-color: #fff;
 }
 
-.content span{
+.content span {
     color: #ff7200;
     font-size: 65px;
 
 }
 
-.form{
+.form {
     width: 250px;
     height: 380px;
     background: linear-gradient(to top, rgba(0, 0, 0, 0.8)50%,
@@ -174,7 +173,7 @@ ul li a:hover {
     padding: 25px;
 }
 
-.form h2{
+.form h2 {
     width: 220px;
     font-family: sans-serif;
     text-align: center;
@@ -186,7 +185,7 @@ ul li a:hover {
     padding: 8px;
 }
 
-.form input{
+.form input {
     width: 240px;
     height: 35px;
     background: transparent;
@@ -201,7 +200,7 @@ ul li a:hover {
     font-family: sans-serif;
 }
 
-.form input:focus{
+.form input:focus {
     outline: none;
 }
 
@@ -223,31 +222,31 @@ ul li a:hover {
     transition: 0.4s ease;
 }
 
-.btn:hover{
+.btn:hover {
     background: #fff;
     color: #ff7200;
 }
 
-.btnn a{
+.btnn a {
     text-decoration: none;
     color: #000;
     font-weight: bold;
 
 }
 
-.form .link{
+.form .link {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
     padding-top: 20px;
     text-align: center;
 }
 
-.form .link a{
+.form .link a {
     text-decoration: none;
     color: #ff7200
 }
 
-.liw{
+.liw {
     padding-top: 15px;
     padding-bottom: 10px;
     text-align: center;
